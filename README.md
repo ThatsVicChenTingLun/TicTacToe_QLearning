@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/06148354-70f3-49b1-a7a6-2d66db7f2a43)## Tictoctoe build
+## Tictoctoe build
 
 ### Step1 -Game Criteria and Mode
 
